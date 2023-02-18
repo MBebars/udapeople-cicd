@@ -207,6 +207,7 @@ jobs:
           paths:
             - project/.circleci/ansible/inventory.txt
       - destroy-environment
+      - revert-migrations
       - notify_on_failure
 
   configure-infrastructure:
