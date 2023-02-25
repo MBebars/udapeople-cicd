@@ -1,0 +1,14 @@
+URL01
+https://github.com/MBebars/udapeople-cicd
+
+URL02
+http://udapeople-474fcaf.s3-website-us-east-1.amazonaws.com/
+
+URL03
+http://d2g4923tfusrbi.cloudfront.net/
+
+URL04
+ec2-44-214-76-61.compute-1.amazonaws.com
+
+URL05
+http://ec2-100-26-170-92.compute-1.amazonaws.com:9090
